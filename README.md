@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tariqalharrasi
-- 👀 I’m interested in Flutter & apps dev
+- 👀 I’m interested in Flutter & Game dev
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me ...Twitter
 

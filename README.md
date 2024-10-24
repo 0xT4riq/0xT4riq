@@ -1,11 +1,5 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I am Tariq AL Harrasi, A person who wants to code :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+## Hello everyone! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
 I am Tariq AL Harrasi, a student at [Sultan Qaboos University](https://www.squ.edu.om/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tariq_alharrasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariq-alharrasi/)](https://www.linkedin.com/in/tariq-alharrasi/)

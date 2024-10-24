@@ -6,6 +6,7 @@ I am Tariq AL Harrasi, a student at [Sultan Qaboos University](https://www.squ.e
 [![Instagram Badge](https://img.shields.io/badge/-tariq_alharrasi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tariq_alharrasi/)](https://www.instagram.com/tariq_alharrasi/)
 [![Youtube Badge](https://img.shields.io/badge/-tariq_alharrasi-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCPLukRgWaEnnPwYvZjaVblg)]([https://www.youtube.com/c/koolkanna](https://www.youtube.com/channel/UCPLukRgWaEnnPwYvZjaVblg))
 
+
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)

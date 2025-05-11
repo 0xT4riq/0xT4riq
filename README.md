@@ -42,5 +42,4 @@ I am Tariq AL Harrasi, a student at [Sultan Qaboos University](https://www.squ.e
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tariqalharrasi&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Tariqalharrasi.Tariqalharrasi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xT4riq.0xT4riq)

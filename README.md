@@ -1,6 +1,6 @@
 ## Hello everyone! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Tariq AL Harrasi, a student at [Sultan Qaboos University](https://www.squ.edu.om/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Tariq AL Harrasi, a Computer Engineering student at [National University of Science and Technology](https://nu.edu.om/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tariq_alharrasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariq-alharrasi/)](https://www.linkedin.com/in/tariq-alharrasi/)
 [![Instagram Badge](https://img.shields.io/badge/-tariq_alharrasi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tariq_alharrasi/)](https://www.instagram.com/tariq_alharrasi/)
